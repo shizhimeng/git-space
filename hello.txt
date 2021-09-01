@@ -1,6 +1,6 @@
 hello zec
 
-hello zec:hello zec
+hello zec2:hello zec
 
 
 
